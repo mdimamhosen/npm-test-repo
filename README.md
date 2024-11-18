@@ -1,2 +1,2 @@
 ﻿# npm-test-repo
-## i will work later on this repository after learning jQuery, angular, prisma, and sass.
+## I will start work on this repository after learning jQuery, Prisma, Angular and SASS
